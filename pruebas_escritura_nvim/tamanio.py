@@ -8,5 +8,5 @@ def mas_larga(palabra):
         else:
             letra = palabra[0]
     return letra
-
-print(mas_larga(["domingo", "jueves", "lunes", "martes", "miercoles"]))
+listaPalbras = ["domingo", "jueves", "lunes", "martes", "miercoles"]
+print(mas_larga(listaPalbras))
