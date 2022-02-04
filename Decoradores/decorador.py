@@ -10,5 +10,4 @@ def funcionDecoradorA(funcionDecoradorB):
 def monstrarMensaje():
     print("Hola desde la funcion mostrar mensaje")
     
-    
 monstrarMensaje()
