@@ -31,3 +31,4 @@ except Exception as e:
 finally:
     print("se cierra la base de datos")
     conexion.close()
+
